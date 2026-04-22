@@ -1,6 +1,5 @@
-package productmanager
+package productmanager;
 
-import com.bierkreek.productmanager.model.Product;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
