@@ -1,4 +1,4 @@
-package com.bierkreek.productmanager.repository;
+package productmanager
 
 import com.bierkreek.productmanager.model.Product;
 import org.springframework.jdbc.core.JdbcTemplate;
