@@ -1,9 +1,6 @@
-package com.bierkreek.productmanager.controller;
+package productmanager;
 
-import com.bierkreek.productmanager.model.Product;
-import com.bierkreek.productmanager.repository.ProductRepository;
 import org.springframework.web.bind.annotation.*;
-
 import java.util.List;
 
 @RestController
